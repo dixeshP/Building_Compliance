@@ -8,8 +8,8 @@
     <meta name="description" content="project-name">
     <meta name="keywords" content="project-name">
     <meta name="author" content="project-name">
-    <link rel="icon" href="../assets/images/fav-con.png" type="image/x-icon" />
-    <link rel="shortcut icon" href="../assets/images/fav-con.png" type="image/x-icon" />
+    <link rel="icon" href="assets/images/fav-con.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="assets/images/fav-con.png" type="image/x-icon" />
     <title>Building Compliance</title>
 
     <!--Google font-->
@@ -20,17 +20,17 @@
     <link href="https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap" rel="stylesheet">
 
     <!-- Icons -->
-    <link rel="stylesheet" type="text/css" href="../assets/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/fontawesome-free/css/all.min.css">
 
     <!-- Bootstrap css -->
-    <link rel="stylesheet" type="text/css" href="../assets/vendor/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendor/css/bootstrap.min.css">
 
     <!-- OWL-Slider css -->
-    <link rel="stylesheet" type="text/css" href="../assets/vendor/css/owl.carousel.min.css">
-    <link rel="stylesheet" type="text/css" href="../assets/vendor/css/owl.theme.default.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendor/css/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendor/css/owl.theme.default.min.css">
 
     <!-- Theme css -->
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom_style.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/custom_style.css">
 </head>
 
 <body>
@@ -42,7 +42,7 @@
         <nav class="navbar navbar-expand-lg" id="myHeader">
             <div class="container-xxl container-md">
                 <a class="navbar-brand" href="#">
-                    <img class="img-fuid" src="../assets/images/logo.png" alt="logo" />
+                    <img class="img-fuid" src="assets/images/logo.png" alt="logo" />
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -110,7 +110,7 @@
                     <div class="col-lg-4">
                         <div class="value_texts">
                             <div class="point_img">
-                                <img class="img-fluid" alt="mission" src="../assets/images/target.png" />
+                                <img class="img-fluid" alt="mission" src="assets/images/target.png" />
                             </div>
                             <div class="point_text">
                                 <h4>Mission</h4>
@@ -124,7 +124,7 @@
                     <div class="col-lg-4 separate_border">
                         <div class="value_texts">
                             <div class="point_img">
-                                <img class="img-fluid" alt="mission" src="../assets/images/value.png" />
+                                <img class="img-fluid" alt="mission" src="assets/images/value.png" />
                             </div>
                             <div class="point_text">
                                 <h4>values</h4>
@@ -138,7 +138,7 @@
                     <div class="col-lg-4">
                         <div class="value_texts">
                             <div class="point_img">
-                                <img class="img-fluid eye" alt="mission" src="../assets/images/eye.png" />
+                                <img class="img-fluid eye" alt="mission" src="assets/images/eye.png" />
                             </div>
                             <div class="point_text">
                                 <h4>vision</h4>
@@ -183,7 +183,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="about_img">
-                        <img src="../assets/images/about_img.png" alt="aboutimg" class="img-fluid" />
+                        <img src="assets/images/about_img.png" alt="aboutimg" class="img-fluid" />
                     </div>
                 </div>
             </div>
@@ -208,63 +208,63 @@
                     <div class="services_cat">
                         <label>1.</label>
                         <h4>Code Compliance Certificate (CCC)</h4>
-                        <img class="img-fluid" alt="" src="../assets/images/services/1.jpg" />
+                        <img class="img-fluid" alt="" src="assets/images/services/1.jpg" />
                     </div>
                 </div>
                 <div class="width_one">
                     <div class="services_cat">
                         <label>2.</label>
                         <h4>Notices to fix under the Building Act 2004</h4>
-                        <img class="img-fluid" alt="" src="../assets/images/services/2.jpg" />
+                        <img class="img-fluid" alt="" src="assets/images/services/2.jpg" />
                     </div>
                 </div>
                 <div class="width_one">
                     <div class="services_cat">
                         <label>3.</label>
                         <h4>Certificate of Acceptance</h4>
-                        <img class="img-fluid" alt="" src="../assets/images/services/3.jpg" />
+                        <img class="img-fluid" alt="" src="assets/images/services/3.jpg" />
                     </div>
                 </div>
                 <div class="width_one">
                     <div class="services_cat">
                         <label>4.</label>
                         <h4>Certificate of Public Use</h4>
-                        <img class="img-fluid" alt="" src="../assets/images/services/4.jpg" />
+                        <img class="img-fluid" alt="" src="assets/images/services/4.jpg" />
                     </div>
                 </div>
                 <div class="width_two">
                     <div class="services_cat">
                         <label>5.</label>
                         <h4>Due Diligence on purchase and sale of propert</h4>
-                        <img class="img-fluid" alt="" src="../assets/images/services/5.jpg" />
+                        <img class="img-fluid" alt="" src="assets/images/services/5.jpg" />
                     </div>
                 </div>
                 <div class="width_two">
                     <div class="services_cat">
                         <label>6.</label>
                         <h4>Safe and Sanitary reports</h4>
-                        <img class="img-fluid" alt="" src="../assets/images/services/6.jpg" />
+                        <img class="img-fluid" alt="" src="assets/images/services/6.jpg" />
                     </div>
                 </div>
                 <div class="width_two">
                     <div class="services_cat">
                         <label>7.</label>
                         <h4>Building Condition Assessment</h4>
-                        <img class="img-fluid" alt="" src="../assets/images/services/7.jpg" />
+                        <img class="img-fluid" alt="" src="assets/images/services/7.jpg" />
                     </div>
                 </div>
                 <div class="width_two">
                     <div class="services_cat">
                         <label>8.</label>
                         <h4>Land development advice with regards to infrastructure services</h4>
-                        <img class="img-fluid" alt="" src="../assets/images/services/8.jpg" />
+                        <img class="img-fluid" alt="" src="assets/images/services/8.jpg" />
                     </div>
                 </div>
                 <div class="width_two">
                     <div class="services_cat">
                         <label>9.</label>
                         <h4>Introduction of Director</h4>
-                        <img class="img-fluid" alt="" src="../assets/images/services/9.jpg" />
+                        <img class="img-fluid" alt="" src="assets/images/services/9.jpg" />
                     </div>
                 </div>
             </div>
@@ -301,7 +301,7 @@
                             </p>
                         </div>
                         <div class="personal_img">
-                            <img class="img-fluid" alt="infoimg" src="../assets/images/p-info.jpg" />
+                            <img class="img-fluid" alt="infoimg" src="assets/images/p-info.jpg" />
                             <label>Deepak Udhani</label>
                         </div>
                     </div>
@@ -318,7 +318,7 @@
                 <div class="col-lg-4">
                     <div class="contact_sec">
                         <div class="contact_img">
-                            <img class="img-fluid" alt="contactimg" src="../assets/images/main.png" />
+                            <img class="img-fluid" alt="contactimg" src="assets/images/main.png" />
                         </div>
                         <div class="contact_txt">
                             <label>Email Address -</label>
@@ -329,7 +329,7 @@
                 <div class="col-lg-4">
                     <div class="contact_sec">
                         <div class="contact_img">
-                            <img class="img-fluid phones" alt="contactimg" src="../assets/images/phone.png" />
+                            <img class="img-fluid phones" alt="contactimg" src="assets/images/phone.png" />
                         </div>
                         <div class="contact_txt">
                             <label>Phone -</label>
@@ -340,7 +340,7 @@
                 <div class="col-lg-4">
                     <div class="contact_sec">
                         <div class="contact_img">
-                            <img class="img-fluid" alt="contactimg" src="../assets/images/address.png" />
+                            <img class="img-fluid" alt="contactimg" src="assets/images/address.png" />
                         </div>
                         <div class="contact_txt">
                             <label>Address -</label>
@@ -365,7 +365,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <form class="row g-3 form_section">
+                    <form class="row g-3 form_section" >
                         <div class="col-md-6 col-sm-6">
                             <label class="form-label">Name :</label>
                             <input type="text" class="form-control" required >
@@ -405,7 +405,7 @@
 
     <!-- Footer Section Start -->
     <footer>
-        <img class="" alt="" src="../assets/images/logo.png" />
+        <img class="" alt="" src="assets/images/logo.png" />
     </footer>
     <section class="copywrite_section">
         <label>Copyright ©  2010-2021 All rights reserved.</label>
@@ -413,19 +413,19 @@
     <!-- Footer Section End -->
 
     <!-- latest jquery-->
-    <script src="../assets/vendor/js/jquery-3.5.1.min.js"></script>
+    <script src="assets/vendor/js/jquery-3.5.1.min.js"></script>
 
     <!-- popper js-->
-    <script src="../assets/vendor/js/popper.min.js"></script>
+    <script src="assets/vendor/js/popper.min.js"></script>
 
     <!-- Bootstrap js-->
-    <script src="../assets/vendor/js/bootstrap.min.js"></script>
+    <script src="assets/vendor/js/bootstrap.min.js"></script>
 
     <!-- OWL-Slider js-->
-    <script src="../assets/vendor/js/owl.carousel.min.js"></script>
+    <script src="assets/vendor/js/owl.carousel.min.js"></script>
 
     <!-- Theme js-->
-    <script src="../assets/js/custom_script.js"></script>
+    <script src="assets/js/custom_script.js"></script>
 
 </body>
 

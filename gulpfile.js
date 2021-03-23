@@ -28,7 +28,7 @@ gulp.task('watch', function() {
 
 gulp.task('browser-sync', ['watch'], function() {
     bs.init({
-        proxy: "localhost/Building_compliance_git/Building_compliance/webpage/index.html"
+        proxy: "localhost/Building_compliance_git/Building_compliance/index.html"
     });
 });
 
